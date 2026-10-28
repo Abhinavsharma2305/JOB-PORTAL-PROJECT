@@ -1,4 +1,4 @@
-# Job Hunt – MERN Stack Job Portal
+# MERN Stack Job Portal
 
 A full-stack job portal built using the MERN stack that connects job seekers with recruiters. Users can explore job opportunities, apply for jobs, and manage their profiles, while recruiters can post jobs and manage applications.
 
